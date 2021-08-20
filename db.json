@@ -1,0 +1,56 @@
+{
+  "patients": [
+    {
+      "full_name": "adhithya",
+      "age": 19,
+      "gender": "M",
+      "service_type": "Normal",
+      "fee_amount": 1290,
+      "id": 2
+    },
+    {
+      "full_name": "Milhi",
+      "age": "20",
+      "gender": "M",
+      "service_type": "Normal",
+      "fee_amount": "1290",
+      "id": 3
+    },
+    {
+      "full_name": "Yash",
+      "age": "20",
+      "gender": "M",
+      "service_type": "Emergency",
+      "fee_amount": "20000",
+      "id": 4
+    },
+    {
+      "full_name": "Shantanu Das",
+      "age": "16",
+      "gender": "M",
+      "service_type": "Emergency",
+      "fee_amount": "6969",
+      "id": 5
+    },
+    {
+      "full_name": "Priyank Modi",
+      "age": "35",
+      "gender": "M",
+      "service_type": "Normal",
+      "fee_amount": "10000",
+      "id": 6
+    }
+  ],
+  "people": [
+    {
+      "id": 1,
+      "first_name": "shashwat",
+      "password": "lol"
+    },
+    {
+      "id": 2,
+      "first_name": "adhi",
+      "password": "lol"
+    }
+  ]
+}
